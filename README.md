@@ -3,18 +3,18 @@
 An ultra-simple QR-code generator.
 
 Tired of ‘free’ online services inexplicably needing access to personal data just to generate QR codes?
-Perplexed by websites gating access to a free standard behind a paywall?
+Perplexed by websites gating access to a free format behind a paywall?
 Enough of that, just do it locally with `qr`.
 
 # Usage
 
-Just run—
+Run—
 
 ```bash
 qr 'beepboop'
 ```
 
-And you will see a file called `qr.png` contianing a QR code with content `beepboop`.
+And you will see a file called `qr.png` containing a QR code with content `beepboop`.
 
 For more options, run—
 
