@@ -1,0 +1,8 @@
+[package]
+name = "qr"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.51", features = ["derive", "wrap_help", "color"] }
+qrcode-generator = "5.0.0"
